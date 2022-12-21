@@ -1,0 +1,8 @@
+.login_card_container {
+  flex-basis: 100%;
+  width: 100%;
+}
+
+.custome_style_btn {
+  background: linear-gradient(to right, #06ba63, #04bb63, #23b87f, #048654);
+}

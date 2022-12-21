@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.brandGreen {
+  color: #179777;
+}
+
+.bgBrandGreen {
+  background-color: #179777;
+}
+
+.brandYellow {
+  color: #ffc800;
+}
+.bgBrandYellow {
+  background-color: #ffc800;
+}
+
+.brandCoffe {
+  color: #673500;
+}
+.brandWhite {
+  color: white;
+}
